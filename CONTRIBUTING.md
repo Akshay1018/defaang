@@ -1,8 +1,8 @@
 # Contributing
 
-defaang lives through contributions from the community. When contributing to this repository, please first discuss the change you wish to make via an issue, discord, or any other method with the maintainers of this repository before making a change.
+defaang lives through contributions from the community. When contributing to this repository, please first discuss the change you wish to make via an issue, Discord, or any other method with the maintainers of this repository before making a change.
 
-**Table of Contents**
+## Table of Contents
 
 - [Contributing](#contributing)
   - [Where to Get Help](#where-to-get-help)
@@ -19,18 +19,18 @@ defaang lives through contributions from the community. When contributing to thi
 
 ## Where to Get Help
 
-The community is present on various platforms on the internet, where we actively help each other out – not only with using the application. GitHub is the most tech-focused part of the community, albeit [discussing here](https://github.com/ykdojo/defaang/discussions) is the way to go for more theoretical discussions. Furthermore, we have a [Discord-server](https://discord.gg/nNtVfKddDD) where we discuss building the app and help each other out.
+The community is present on various platforms on the internet, where we actively help each other out – not only with using the application. GitHub is the most tech-focused part of the community, albeit [discussing here](https://github.com/csdojo-defaang/defaang/discussions) is the way to go for more theoretical discussions. Furthermore, we have a [Discord-server](https://discord.gg/nNtVfKddDD) where we discuss building the app and help each other out.
 
 ### All Communication Channels
 
 - [Discord](https://discord.gg/nNtVfKddDD)
-- [GitHub](https://github.com/ykdojo/defaang/discussions)
+- [GitHub](https://github.com/csdojo-defaang/defaang/discussions)
 
 ## How to Help
 
 If you have some experience with developing, we would gladly welcome your help in fixing issues and adding features. Even if you just started: There are tons of smaller things and issues to take on, so by cleaning up code here and there, you can improve your skills and help the project. Even if it's a minor fix, it is still a fix!
 
-First, feel free to search for good first issues to tackle: [check here](https://github.com/ykdojo/defaang/labels/good%20first%20issue)
+First, feel free to search for good first issues to tackle: [check here](https://github.com/csdojo-defaang/defaang/labels/good%20first%20issue)
 
 Even if you're an advanced coder, feel free to take one of them :)
 
@@ -45,7 +45,7 @@ Second, please look through the other issues and discussions to get a better ide
 
 ### Project Board
 
-You can find the project board [here](https://github.com/users/ykdojo/projects/1/views/1).
+You can find the project board [here](https://github.com/orgs/csdojo-defaang/projects/2/views/1).
 
 ### Contributor Guidelines
 
@@ -80,7 +80,7 @@ feat: added authentication using supabase auth
 
 ### Making Changes
 
-To contribute, you will need to make a feature branch. This simplifies adding your code to the official repository and ensures the main branch is always working. As a heads up, it's best to let us know what you're working on by commenting on or creating an [issue](https://github.com/ykdojo/defaang/issues). This way, we all save time by working on different things.
+To contribute, you will need to make a feature branch. This simplifies adding your code to the official repository and ensures the main branch is always working. As a heads up, it's best to let us know what you're working on by commenting on or creating an [issue](https://github.com/csdojo-defaang/defaang/issues). This way, we all save time by working on different things.
 Follow the steps below to make changes:
 
 1. In terminal, `cd` into defaang.
@@ -93,14 +93,13 @@ Follow the steps below to make changes:
 
 ### Pushing Changes
 
-You are ready for your contribution to be reviewed and merged. There are a few things you can do to make this easier for maintainers to review your code, so please follow all steps.
+You are ready for your contribution to be reviewed and merged. There are a few things you can do to make things easier for the maintainers to review your code, so please follow all these steps.
 
-1. Follow the instructions for Updating Your Repository.
-2. Switch back to your feature branch with `git checkout name-of-your-feature`.
-3. Rebase your branch with `git rebase main`. This will make sure there are no conflicts with other people's contributions.
-4. Rebuild your project to make sure everything still works. If things are broken, resolve them, making commits along the way. Once resolved, return to step 1 as resolving conflict could have made more changes in the meantime.
-5. Push your branch to your online fork with `git push origin name-of-your-feature`.
-6. On GitHub, create a pull request for your feature branch.
+1. Switch to your feature branch with `git checkout name-of-your-feature`.
+2. Rebase your branch with `git rebase main`. This will ensure that there are no conflicts with other people's contributions.
+3. Rebuild your project to make sure everything still works. If things are broken, fix them, making commits along the way.
+4. Push your branch to your fork with `git push origin name-of-your-feature`.
+5. Create a Pull Request for your feature branch on GitHub.
 
 ## Remarks
 
